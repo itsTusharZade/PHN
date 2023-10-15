@@ -1,0 +1,18 @@
+"/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/DerivedSources/GeneratedAssetSymbols.swift":
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/GeneratedAssetSymbols.d"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/GeneratedAssetSymbols.dia"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/LocalDB/CustomUserDefaults.swift":
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CustomUserDefaults.swiftconstvalues"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CustomUserDefaults.swiftdeps"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CustomUserDefaults.dia"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CustomUserDefaults.d"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CustomUserDefaults.o"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/View/LoginVC.swift":
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/LoginVC.swiftconstvalues"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/LoginVC.dia"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/LoginVC.swiftdeps"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/LoginVC.d"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/LoginVC.o"

@@ -1,0 +1,24 @@
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/AppStoryboard.swift":
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppStoryboard.dia"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppStoryboard.swiftdeps"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppStoryboard.o"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppStoryboard.d"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppStoryboard.swiftconstvalues"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/View/Products/ProductListVC.swift":
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductListVC.o"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductListVC.d"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductListVC.swiftconstvalues"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductListVC.swiftdeps"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductListVC.dia"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Common/NeuView.swift":
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/NeuView.swiftdeps"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/NeuView.o"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/NeuView.d"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/NeuView.dia"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/NeuView.swiftconstvalues"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Validation/RegistrationValidation.swift":
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationValidation.dia"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationValidation.swiftconstvalues"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationValidation.o"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationValidation.d"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationValidation.swiftdeps"

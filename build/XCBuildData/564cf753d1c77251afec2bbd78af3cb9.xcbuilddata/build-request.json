@@ -1,0 +1,92 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "12df08997e27b2671f121fff1f359306b3774d147027d978cc736c3bd6a933bd"
+    },
+    {
+      "guid" : "12df08997e27b2671f121fff1f359306f00a0f66e0f698c2f064adf0f9cb9adb"
+    },
+    {
+      "guid" : "12df08997e27b2671f121fff1f35930634e08172cf2937738e1f69432a8a497a"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42d963b97f167eba16ed6496a1734659b6"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42cfd1d6394655aeacac5a016961d542f7"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd4251db42a3d1b4f486b96acc460ab0d9e8"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42befb3a4ed5b8f72939742c8e72ed76bd"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd424a09c4f25f7478f22ce27fdde8d154c2"
+    },
+    {
+      "guid" : "8699adb1dd336b26511df848a716bd42c46180aea4e87057640961e6db37df0d"
+    }
+  ],
+  "containerPath" : "/Users/tusharzade/Desktop/PHN_Task/PHN_Task.xcworkspace",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphoneos",
+      "sdk" : "iphoneos17.0",
+      "sdkVariant" : "iphoneos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64v8",
+        "arm64",
+        "armv8"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/tusharzade/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/tusharzade/Library/Developer/Xcode/DerivedData/PHN_Task-bsafnsxglrkmgcawatzbdtygqyzg/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/tusharzade/Library/Developer/Xcode/DerivedData/PHN_Task-bsafnsxglrkmgcawatzbdtygqyzg/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone14,5",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.0.3",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone14,5",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/tusharzade/Library/Developer/Xcode/DerivedData/PHN_Task-bsafnsxglrkmgcawatzbdtygqyzg/CodeCoverage/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "00008110-000E698C2E69801E",
+          "TARGET_DEVICE_MODEL" : "iPhone14,5",
+          "TARGET_DEVICE_OS_VERSION" : "17.0.3",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphoneos"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

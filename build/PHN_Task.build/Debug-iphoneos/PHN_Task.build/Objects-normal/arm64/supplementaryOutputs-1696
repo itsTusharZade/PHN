@@ -1,0 +1,24 @@
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/SceneDelegate.swift":
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/SceneDelegate.o"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/SceneDelegate.d"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/SceneDelegate.swiftdeps"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/SceneDelegate.dia"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Validation/ValidationResult.swift":
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ValidationResult.d"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ValidationResult.dia"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ValidationResult.o"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ValidationResult.swiftdeps"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ValidationResult.swiftconstvalues"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Services/HTTPUtility.swift":
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/HTTPUtility.swiftconstvalues"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/HTTPUtility.d"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/HTTPUtility.o"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/HTTPUtility.swiftdeps"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/HTTPUtility.dia"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/View/Products/CategoryCollCell.swift":
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.swiftdeps"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.o"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.d"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.dia"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.swiftconstvalues"

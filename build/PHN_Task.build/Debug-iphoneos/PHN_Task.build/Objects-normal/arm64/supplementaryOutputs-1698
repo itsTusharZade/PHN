@@ -1,0 +1,24 @@
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Models/ProductsModel/Category.swift":
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Category.o"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Category.dia"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Category.d"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Category.swiftconstvalues"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Category.swiftdeps"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Validation/LoginValidation.swift":
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginValidation.dia"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginValidation.d"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginValidation.swiftconstvalues"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginValidation.o"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginValidation.swiftdeps"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Extensions/UIButton+Ext.swift":
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIButton+Ext.dia"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIButton+Ext.o"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIButton+Ext.d"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIButton+Ext.swiftconstvalues"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIButton+Ext.swiftdeps"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Models/ProductsModel/ProductsResponse.swift":
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResponse.o"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResponse.swiftdeps"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResponse.swiftconstvalues"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResponse.d"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResponse.dia"

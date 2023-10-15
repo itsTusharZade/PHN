@@ -1,0 +1,24 @@
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/LocalDB/Managers/CDUserManager.swift":
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CDUserManager.d"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CDUserManager.swiftdeps"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CDUserManager.o"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CDUserManager.swiftconstvalues"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CDUserManager.dia"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/SceneDelegate.swift":
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/SceneDelegate.swiftdeps"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/SceneDelegate.dia"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/SceneDelegate.d"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/SceneDelegate.o"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Extensions/UIViewController+Ext.swift":
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/UIViewController+Ext.swiftdeps"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/UIViewController+Ext.dia"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/UIViewController+Ext.swiftconstvalues"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/UIViewController+Ext.d"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/UIViewController+Ext.o"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/View/Products/CategoryCollCell.swift":
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.o"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.d"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.swiftconstvalues"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.swiftdeps"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphonesimulator/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.dia"

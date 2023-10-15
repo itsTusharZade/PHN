@@ -1,0 +1,24 @@
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/ViewModel/LoginViewModel.swift":
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginViewModel.d"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginViewModel.dia"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginViewModel.swiftconstvalues"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginViewModel.o"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginViewModel.swiftdeps"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Remote/ProductsResource.swift":
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResource.swiftconstvalues"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResource.dia"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResource.o"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResource.d"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResource.swiftdeps"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Models/RegistrationModel/RegistrationRequest.swift":
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationRequest.o"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationRequest.swiftdeps"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationRequest.d"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationRequest.dia"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationRequest.swiftconstvalues"
+"/Users/tusharzade/Desktop/PHN_Task/PHN_Task/LocalDB/CoreDataSupportFiles/PersistentStorage.swift":
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PersistentStorage.o"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PersistentStorage.swiftdeps"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PersistentStorage.swiftconstvalues"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PersistentStorage.dia"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PersistentStorage.d"

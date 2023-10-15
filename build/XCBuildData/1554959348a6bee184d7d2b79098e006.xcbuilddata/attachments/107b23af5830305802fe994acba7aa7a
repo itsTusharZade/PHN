@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerView-master.dia",
+    "emit-module-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerView-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerView-master-emit-module.dia",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerView-master.swiftdeps"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/Pods/FSPagerView/Sources/FSPageControl.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageControl.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageControl.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageControl.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageControl.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageControl.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageControl.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageControl.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageControl~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/Pods/FSPagerView/Sources/FSPagerCollectionView.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerCollectionView.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerCollectionView.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerCollectionView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerCollectionView.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerCollectionView.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerCollectionView.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerCollectionView.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerCollectionView~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/Pods/FSPagerView/Sources/FSPagerView.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerView.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerView.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerView.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerView.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerView.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerView.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerView~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/Pods/FSPagerView/Sources/FSPagerViewCell.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewCell.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewCell.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewCell.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewCell.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewCell.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewCell.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewCell.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewCell~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/Pods/FSPagerView/Sources/FSPagerViewLayoutAttributes.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewLayoutAttributes.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewLayoutAttributes.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewLayoutAttributes.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewLayoutAttributes.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewLayoutAttributes.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewLayoutAttributes.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewLayoutAttributes.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPagerViewLayoutAttributes~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/Pods/FSPagerView/Sources/FSPageViewLayout.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewLayout.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewLayout.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewLayout.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewLayout.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewLayout.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewLayout.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewLayout.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewLayout~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/Pods/FSPagerView/Sources/FSPageViewTransformer.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewTransformer.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewTransformer.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewTransformer.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewTransformer.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewTransformer.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewTransformer.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewTransformer.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphonesimulator/FSPagerView.build/Objects-normal/arm64/FSPageViewTransformer~partial.swiftmodule"
+  }
+}

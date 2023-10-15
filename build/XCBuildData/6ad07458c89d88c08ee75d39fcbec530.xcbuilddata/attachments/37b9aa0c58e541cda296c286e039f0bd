@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/tusharzade/Desktop/PHN_Task/build/Debug-iphoneos/FSPagerView/FSPagerView.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/FSPagerView.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/tusharzade/Desktop/PHN_Task/build/Debug-iphoneos/FSPagerView/FSPagerView.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "FSPagerView-Swift.h",
+      'external-contents': "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/FSPagerView.build/unextended-interface-header.h",
+    }]
+    }]
+}

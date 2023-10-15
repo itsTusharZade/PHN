@@ -1,0 +1,28 @@
+{
+  "" : {
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITests-master.dia",
+    "emit-module-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITests-master.swiftdeps"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_TaskUITests/PHN_TaskUITests.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITests.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITests.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITests.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITests.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITests.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITests.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITests.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITests~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_TaskUITests/PHN_TaskUITestsLaunchTests.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITestsLaunchTests.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITestsLaunchTests.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITestsLaunchTests.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITestsLaunchTests.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITestsLaunchTests.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITestsLaunchTests.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITestsLaunchTests.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskUITests.build/Objects-normal/arm64/PHN_TaskUITestsLaunchTests~partial.swiftmodule"
+  }
+}

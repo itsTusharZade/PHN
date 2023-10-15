@@ -1,0 +1,18 @@
+"/Users/tusharzade/Desktop/PHN_Task/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQTitleBarButtonItem.swift":
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTitleBarButtonItem.swiftconstvalues"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTitleBarButtonItem.swiftdeps"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTitleBarButtonItem.o"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTitleBarButtonItem.dia"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTitleBarButtonItem.d"
+"/Users/tusharzade/Desktop/PHN_Task/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQToolbar/IQToolbar.swift":
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQToolbar.dia"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQToolbar.swiftconstvalues"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQToolbar.d"
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQToolbar.swiftdeps"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQToolbar.o"
+"/Users/tusharzade/Desktop/PHN_Task/Pods/IQKeyboardManagerSwift/IQKeyboardManagerSwift/IQTextView/IQTextView.swift":
+  swift-dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTextView.swiftdeps"
+  dependencies: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTextView.d"
+  const-values: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTextView.swiftconstvalues"
+  object: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTextView.o"
+  diagnostics: "/Users/tusharzade/Desktop/PHN_Task/build/Pods.build/Debug-iphoneos/IQKeyboardManagerSwift.build/Objects-normal/arm64/IQTextView.dia"

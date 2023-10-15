@@ -1,0 +1,368 @@
+{
+  "" : {
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PHN_Task-master.dia",
+    "emit-module-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PHN_Task-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PHN_Task-master-emit-module.dia",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PHN_Task-master.swiftdeps"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/AppDelegate.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/AppStoryboard.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppStoryboard.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppStoryboard.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppStoryboard.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppStoryboard.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppStoryboard.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppStoryboard.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppStoryboard.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/AppStoryboard~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Common/ActivityIndicator/ActivityIndicator.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ActivityIndicator.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ActivityIndicator.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ActivityIndicator.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ActivityIndicator.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ActivityIndicator.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ActivityIndicator.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ActivityIndicator.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ActivityIndicator~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Common/ApiEndPoints.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ApiEndPoints.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ApiEndPoints.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ApiEndPoints.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ApiEndPoints.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ApiEndPoints.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ApiEndPoints.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ApiEndPoints.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ApiEndPoints~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Common/NeuView.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/NeuView.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/NeuView.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/NeuView.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/NeuView.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/NeuView.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/NeuView.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/NeuView.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/NeuView~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Extensions/UIButton+Ext.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIButton+Ext.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIButton+Ext.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIButton+Ext.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIButton+Ext.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIButton+Ext.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIButton+Ext.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIButton+Ext.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIButton+Ext~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Extensions/UIViewController+Ext.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIViewController+Ext.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIViewController+Ext.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIViewController+Ext.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIViewController+Ext.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIViewController+Ext.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIViewController+Ext.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIViewController+Ext.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/UIViewController+Ext~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/LocalDB/CDExtensions/CDProductExtension.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDProductExtension.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDProductExtension.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDProductExtension.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDProductExtension.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDProductExtension.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDProductExtension.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDProductExtension.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDProductExtension~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/LocalDB/CDModels/CDUserModel.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserModel.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserModel.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserModel.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserModel.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserModel.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserModel.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserModel.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserModel~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/LocalDB/CDRepository/CDUserRepository.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserRepository.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserRepository.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserRepository.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserRepository.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserRepository.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserRepository.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserRepository.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserRepository~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/LocalDB/CoreDataSupportFiles/PersistentStorage.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PersistentStorage.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PersistentStorage.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PersistentStorage.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PersistentStorage.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PersistentStorage.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PersistentStorage.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PersistentStorage.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/PersistentStorage~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/LocalDB/CustomUserDefaults.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CustomUserDefaults.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CustomUserDefaults.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CustomUserDefaults.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CustomUserDefaults.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CustomUserDefaults.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CustomUserDefaults.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CustomUserDefaults.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CustomUserDefaults~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/LocalDB/Managers/CDUserManager.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserManager.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserManager.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserManager.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserManager.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserManager.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserManager.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserManager.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CDUserManager~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Models/LoginModel/LoginRequest.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginRequest.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginRequest.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginRequest.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginRequest.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginRequest.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginRequest.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginRequest.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginRequest~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Models/ProductsModel/Category.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Category.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Category.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Category.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Category.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Category.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Category.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Category.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Category~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Models/ProductsModel/ProductsResponse.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResponse.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResponse.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResponse.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResponse.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResponse.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResponse.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResponse.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResponse~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Models/RegistrationModel/RegistrationRequest.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationRequest.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationRequest.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationRequest.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationRequest.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationRequest.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationRequest.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationRequest.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationRequest~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Remote/ProductsResource.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResource.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResource.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResource.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResource.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResource.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResource.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResource.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsResource~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/SceneDelegate.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Services/HTTPUtility.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/HTTPUtility.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/HTTPUtility.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/HTTPUtility.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/HTTPUtility.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/HTTPUtility.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/HTTPUtility.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/HTTPUtility.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/HTTPUtility~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Validation/LoginValidation.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginValidation.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginValidation.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginValidation.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginValidation.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginValidation.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginValidation.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginValidation.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginValidation~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Validation/RegistrationValidation.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationValidation.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationValidation.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationValidation.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationValidation.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationValidation.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationValidation.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationValidation.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationValidation~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/Validation/ValidationResult.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ValidationResult.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ValidationResult.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ValidationResult.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ValidationResult.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ValidationResult.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ValidationResult.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ValidationResult.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ValidationResult~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/View/LoginVC.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginVC.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginVC.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginVC.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginVC.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginVC.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginVC.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginVC.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginVC~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/View/ProductDetails/ProductDetailsVC.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductDetailsVC.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductDetailsVC.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductDetailsVC.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductDetailsVC.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductDetailsVC.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductDetailsVC.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductDetailsVC.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductDetailsVC~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/View/Products/CategoryCollCell.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CategoryCollCell.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/CategoryCollCell~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/View/Products/ProductList+Ext.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductList+Ext.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductList+Ext.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductList+Ext.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductList+Ext.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductList+Ext.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductList+Ext.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductList+Ext.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductList+Ext~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/View/Products/ProductListVC.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductListVC.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductListVC.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductListVC.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductListVC.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductListVC.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductListVC.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductListVC.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductListVC~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/View/Products/ProductsCollCell.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsCollCell.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsCollCell.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsCollCell.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsCollCell.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsCollCell.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsCollCell.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsCollCell.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsCollCell~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/View/RegisterationVC.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegisterationVC.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegisterationVC.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegisterationVC.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegisterationVC.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegisterationVC.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegisterationVC.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegisterationVC.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegisterationVC~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/ViewModel/LoginViewModel.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginViewModel.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginViewModel.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginViewModel.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginViewModel.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginViewModel.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginViewModel.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginViewModel.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/LoginViewModel~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/ViewModel/ProductsViewModel.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsViewModel.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsViewModel.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsViewModel.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsViewModel.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsViewModel.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsViewModel.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsViewModel.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/ProductsViewModel~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_Task/ViewModel/RegistrationViewModel.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationViewModel.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationViewModel.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationViewModel.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationViewModel.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationViewModel.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationViewModel.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationViewModel.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/RegistrationViewModel~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/Users+CoreDataClass.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataClass.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataClass.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataClass.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataClass.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataClass.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataClass.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataClass.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataClass~partial.swiftmodule"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/Users+CoreDataProperties.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataProperties.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataProperties.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataProperties.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataProperties.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataProperties.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataProperties.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataProperties.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_Task.build/Objects-normal/arm64/Users+CoreDataProperties~partial.swiftmodule"
+  }
+}

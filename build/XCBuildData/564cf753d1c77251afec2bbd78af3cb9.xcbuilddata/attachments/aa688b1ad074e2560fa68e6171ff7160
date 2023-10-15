@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskTests.build/Objects-normal/arm64/PHN_TaskTests-master.dia",
+    "emit-module-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskTests.build/Objects-normal/arm64/PHN_TaskTests-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskTests.build/Objects-normal/arm64/PHN_TaskTests-master-emit-module.dia",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskTests.build/Objects-normal/arm64/PHN_TaskTests-master.swiftdeps"
+  },
+  "/Users/tusharzade/Desktop/PHN_Task/PHN_TaskTests/PHN_TaskTests.swift" : {
+    "const-values" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskTests.build/Objects-normal/arm64/PHN_TaskTests.swiftconstvalues",
+    "dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskTests.build/Objects-normal/arm64/PHN_TaskTests.d",
+    "diagnostics" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskTests.build/Objects-normal/arm64/PHN_TaskTests.dia",
+    "index-unit-output-path" : "/PHN_Task.build/Debug-iphoneos/PHN_TaskTests.build/Objects-normal/arm64/PHN_TaskTests.o",
+    "llvm-bc" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskTests.build/Objects-normal/arm64/PHN_TaskTests.bc",
+    "object" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskTests.build/Objects-normal/arm64/PHN_TaskTests.o",
+    "swift-dependencies" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskTests.build/Objects-normal/arm64/PHN_TaskTests.swiftdeps",
+    "swiftmodule" : "/Users/tusharzade/Desktop/PHN_Task/build/PHN_Task.build/Debug-iphoneos/PHN_TaskTests.build/Objects-normal/arm64/PHN_TaskTests~partial.swiftmodule"
+  }
+}

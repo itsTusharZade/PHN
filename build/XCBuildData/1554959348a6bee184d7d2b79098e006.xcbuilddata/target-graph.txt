@@ -1,0 +1,13 @@
+Target dependency graph (5 targets)
+Target 'PHN_Task' in project 'PHN_Task'
+➜ Implicit dependency on target 'Pods-PHN_Task' in project 'Pods' via file 'Pods_PHN_Task.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'FSPagerView' in project 'Pods' via options '-framework FSPagerView' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'IQKeyboardManagerSwift' in project 'Pods' via options '-framework IQKeyboardManagerSwift' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SDWebImage' in project 'Pods' via options '-framework SDWebImage' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-PHN_Task' in project 'Pods'
+➜ Explicit dependency on target 'FSPagerView' in project 'Pods'
+➜ Explicit dependency on target 'IQKeyboardManagerSwift' in project 'Pods'
+➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+Target 'SDWebImage' in project 'Pods' (no dependencies)
+Target 'IQKeyboardManagerSwift' in project 'Pods' (no dependencies)
+Target 'FSPagerView' in project 'Pods' (no dependencies)

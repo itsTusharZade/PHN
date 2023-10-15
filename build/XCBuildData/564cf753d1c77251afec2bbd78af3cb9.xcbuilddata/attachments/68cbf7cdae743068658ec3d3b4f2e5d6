@@ -1,0 +1,5 @@
+ extern const unsigned char Pods_PHN_Task_PHN_TaskUITestsVersionString[];
+ extern const double Pods_PHN_Task_PHN_TaskUITestsVersionNumber;
+
+ const unsigned char Pods_PHN_Task_PHN_TaskUITestsVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Pods_PHN_Task_PHN_TaskUITests  PROJECT:Pods-1" "\n";
+ const double Pods_PHN_Task_PHN_TaskUITestsVersionNumber __attribute__ ((used)) = (double)1.;
